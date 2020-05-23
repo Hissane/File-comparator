@@ -1,1 +1,1 @@
-"# File-comparator" 
+# File-comparator
